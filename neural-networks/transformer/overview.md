@@ -14,6 +14,7 @@
 
 - [[neural-networks/transformer/attention-mechanism|Механизм внимания: Q, K, V]] — scaled dot-product attention и multi-head attention
 - [[neural-networks/transformer/decoder|Декодер: три слоя внимания]] — masked self-attention, cross-attention и FFN
+- [[neural-networks/transformer/flash-attention|FlashAttention]] — IO-aware алгоритм, ускоряющий attention за счёт минимизации HBM-трафика
 
 ## Связанные темы
 

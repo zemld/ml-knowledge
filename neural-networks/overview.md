@@ -14,6 +14,7 @@
 - [[neural-networks/gan/overview|GAN — Генеративно-состязательные сети]] — как две сети соревнуются, чтобы научиться создавать новые данные
 - [[neural-networks/normalizing-flows/overview|Normalizing Flows]] — обратимые генеративные модели с точным правдоподобием
 - [[neural-networks/diffusion-models/overview|Диффузионные модели]] — итеративное шаговое очищение от шума для генерации изображений
+- [[neural-networks/tensor-cores-and-precision|Tensor Cores и форматы точности]] — TF32, FP16, BF16, INT8 и смешанная точность при обучении
 
 ## Источники
 
