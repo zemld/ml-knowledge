@@ -11,6 +11,8 @@
 ## Разделы
 
 - [[neural-networks/gan/overview|GAN — Генеративно-состязательные сети]] — как две сети соревнуются, чтобы научиться создавать новые данные
+- [[neural-networks/normalizing-flows/overview|Normalizing Flows]] — обратимые генеративные модели с точным правдоподобием
+- [[neural-networks/diffusion-models/overview|Диффузионные модели]] — итеративное шаговое очищение от шума для генерации изображений
 
 ## Источники
 
