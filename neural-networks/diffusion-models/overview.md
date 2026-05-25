@@ -23,6 +23,7 @@
 ## Разделы
 
 - [[neural-networks/diffusion-models/ddpm|DDPM — Denoising Diffusion Probabilistic Models]] — базовый алгоритм обучения и генерации
+- [[neural-networks/diffusion-models/text-diffusion|Текстовая диффузия]] — диффузия для текста: masked diffusion, MDLM, отличия от трансформеров
 
 ## Связанные темы
 
